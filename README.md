@@ -8,7 +8,7 @@ Response Analysis: Identifies server responses to distinguish between unauthoriz
 Modular Design: Easily extensible to include custom wordlists or JWT header analysis.
 
 Installation & Usage
-Clone the repo: git clone https://github.com/your-username/api-scanner
+Clone the repo: git clone https://github.com/nerd-00/api-scanner
 
 Run the script: python3 scanner.py --url https://target-api.com
 
